@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'Spartan-regular';
+    src: url('./LeagueSpartan-Regular.woff');
+}
+
+@font-face {
+    font-family: 'Spartan-bold';
+    src: url('./LeagueSpartan-Bold.woff');
+}
+
+@font-face {
+    font-family: 'Spartan-semibold';
+    src: url('./LeagueSpartan-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'Spartan-medium';
+    src: url('./LeagueSpartan-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'Spartan-extrabold';
+    src: url('./LeagueSpartan-ExtraBold.ttf');
+}
+
+@font-face {
+    font-family: 'roboto-regular';
+    src: url('./Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'roboto-bold';
+    src: url('./Roboto-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'roboto-light';
+    src: url('./Roboto-Light.ttf');
+}
+
+@font-face {
+    font-family: 'roboto-black';
+    src: url('./Roboto-Black.ttf');
+}
+
+@font-face {
+    font-family: 'roboto-medium';
+    src: url('./Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'HelveticaNeue-Regular';
+    src: url('./HelveticaNeue-Regular.ttf');
+}
